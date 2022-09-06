@@ -1,0 +1,8 @@
+<<<<<<< Updated upstream
+Ravindar Jadeja
+=======
+Virat Kohli
+Rohit Sharma
+Hardik Pandya
+KL Rahul
+>>>>>>> Stashed changes
